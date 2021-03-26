@@ -1,11 +1,11 @@
 <h1 align="center">
   <br>
   <br>
-  App Cronometro
+  App Biscoito da Sorte.
 </h1>
 
 <h4 align="center">
-   App Cronometro.
+   App Biscoito da Sorte.
 </h4>
 
 <h6 align="center">
@@ -30,14 +30,12 @@
 
 # Projeto
 
+Quando clica no botaão o app abre o biscoito e revela uma frase.
 
 ![1][tela1]
 
 
-![3][tela2]
-
-![2][tela3]
+![2][tela2]
 
 [tela1]: T1.png
 [tela2]: T2.png
-[tela3]: T3.png
